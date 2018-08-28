@@ -7,3 +7,5 @@ console.log("blablablabla");
 3;
 4;
 5;
+
+var hello = "hhshshsh";
